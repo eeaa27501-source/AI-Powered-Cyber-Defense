@@ -1,0 +1,2 @@
+Prompt for Gemini or Microsoft Copilot:
+"You are helping with a school cybersecurity project. Explain these anonymized, synthetic security alerts in simple language. For each alert, state (1) what the rule noticed, (2) one benign explanation, (3) one safe verification step, and (4) the limitations. Do not claim certainty or suggest offensive actions. Data: [paste only the synthetic alerts printed by my demo]."
